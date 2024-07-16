@@ -1,0 +1,19 @@
+package br.com.alura.forumhub.domain.topico;
+
+public enum Curso {
+    PROGRAMACAO,
+    BANCO_DE_DADOS,
+    DESENVOLVIMENTO,
+    DATA_SCIENCE,
+    INTELIGENCIA_ARTIFICIAL,
+    ENGENHARIA,
+    REDES,
+    SEGURANCA,
+    DESENVOLVIMENTO_MOBILE,
+    DEVOPS,
+    GERENCIAMENTO,
+    ANALISE,
+    ADMINISTRACAO,
+    DESIGN,
+    TECNOLOGIA
+}

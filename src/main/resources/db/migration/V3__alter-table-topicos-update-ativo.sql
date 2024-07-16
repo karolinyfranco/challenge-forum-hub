@@ -1,0 +1,1 @@
+update topicos set ativo = 1;
